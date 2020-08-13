@@ -1,5 +1,4 @@
 import React from 'react';
-import './BoardStyles.css';
 import Square from './Square/Square';
 
 function Board(props:any) {

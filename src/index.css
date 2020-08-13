@@ -2,8 +2,20 @@
   border: 1px solid lightgray;
   height: 100px;
   width: 100px;
+  cursor: pointer;
+}
+
+.cell:hover{
+  background: lightgray;
 }
 
 .symbol {
-  line-height: 
+  line-height: 100px;
+  font-weight: bold;
+  font-size: 30px;
+}
+
+#board {
+  border: 1px solid lightgray;
+  width: 302px;
 }

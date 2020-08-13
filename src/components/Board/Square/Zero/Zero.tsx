@@ -2,9 +2,7 @@ import React from 'react';
 
 function Zero(props:any) {
   return (
-    <div className="zero">
-        
-    </div>
+    <div className="symbol text-center">O</div>
   )
 }
 
